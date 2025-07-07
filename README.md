@@ -17,10 +17,12 @@ WebGPU는 웹 앱에서 GPU의 기능에 액세스하기 위한 새로운 최신
 
 ### WebGPU
 
+- [WebGPU 개요](https://developer.chrome.com/docs/web-platform/webgpu/overview?hl=ko)
 - [Google Codelabs - 첫 번째 WebGPU 앱 (한국어)](https://codelabs.developers.google.com/your-first-webgpu-app?hl=ko#0)
 - [WebGPU Specification](https://www.w3.org/TR/webgpu/)
 - [MDN WebGPU Documentation](https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API)
 - [WebGPU Fundamentals](https://webgpufundamentals.org/)
+- [Awesome WebGPU](https://github.com/mikbry/awesome-webgpu)
 
 ### WGSL
 
@@ -31,3 +33,5 @@ WebGPU는 웹 앱에서 GPU의 기능에 액세스하기 위한 새로운 최신
 
 - [WebGPU Samples](https://webgpu.github.io/webgpu-samples/)
 - [compute.toys](https://compute.toys/)
+
+
